@@ -1,0 +1,23 @@
+/******  Google fonts ******/
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: right;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+.close{
+
+    margin-left: 0px !important;
+}
+
+.infinite-status-prompt{
+
+    text-align: center !important;
+}

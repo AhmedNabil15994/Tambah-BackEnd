@@ -1,0 +1,15 @@
+{
+    "name": "Attribute",
+    "alias": "attribute",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Attribute\\Providers\\AttributeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

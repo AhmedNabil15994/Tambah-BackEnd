@@ -1,0 +1,15 @@
+{
+    "name": "POS",
+    "alias": "pos",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\POS\\Providers\\POSServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

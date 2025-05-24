@@ -1,0 +1,14 @@
+{
+    "name": "Wrapping",
+    "alias": "wrapping",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Wrapping\\Providers\\WrappingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+    ],
+    "requires": []
+}
